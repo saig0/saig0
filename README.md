@@ -83,3 +83,7 @@ I'm the creator/maintainer of:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=camunda-community-hub&repo=eze" />
 </a>
 
+<a href="https://github.com/camunda-community-hub/zeebe-play">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=camunda-community-hub&repo=zeebe-play" />
+</a>
+
