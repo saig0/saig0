@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🪐 My main language is Java <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> but my favorite ones are Scala <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="30" height="30"/> and Kotlin <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="30" height="30"/> 
 - 🗣 I gave talks about:
   - [Building Zeebe's workflow engine based on stream processing](https://page.camunda.com/ccs2022-usingzeebeasprocessengine) (Camunda Community Summit 2022) 
-  - [Building the terminate end event in Zeebe](https://www.twitch.tv/videos/1584245006) (Live coding hosted by the Camunda advocates Thomas and Josh, 2022)
+  - [Building the terminate end event in Zeebe](https://www.youtube.com/watch?v=K_RMEzxJwyk) (Live coding hosted by the Camunda advocates Thomas and Josh, 2022)
   - [FEEL Beyond DMN - How FEEL empowers BPMN](https://page.camunda.com/camunda-community-summit-2023-feel-beyond-dmn) (Camunda Community Summit 2023)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saig0&show_icons=true&locale=en" alt="saig0" /></p>
