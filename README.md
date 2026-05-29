@@ -23,4 +23,4 @@ Here are some ideas to get you started:
   - [Building the terminate end event in Zeebe](https://www.youtube.com/watch?v=K_RMEzxJwyk) (Live coding hosted by the Camunda advocates Thomas and Josh, 2022)
   - [FEEL Beyond DMN - How FEEL empowers BPMN](https://page.camunda.com/camunda-community-summit-2023-feel-beyond-dmn) (Camunda Community Summit 2023)
   - [Master process testing with Camunda Process Test](https://www.camundacon.com/event-session/camundacon-amsterdam-2025/master-process-testing-with-camunda-process-test/?on_demand=true) (Camunda Con Amsterdam 2025)
-
+  - [Testing agentic processes with Camunda Process Test](https://player.vimeo.com/video/1195564646) (Camunda Con Amsterdam 2026)
